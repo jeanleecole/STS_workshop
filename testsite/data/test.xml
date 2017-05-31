@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tombstone of Alice Hutton</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published at UMD-MIST, May 31, 2017</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+
+    <p>SACRED<lb/>
+    to the memory of<lb/>
+    Mrs. <persName>ALICE HUTTON</persName>,<lb/>
+    born at <placeName>Chesterfield</placeName>in<lb/>
+    <placeName>Great Britain</placeName>,<lb/>
+    <date when="01-25-1722">Jan. 25<sup>th</sup> 1722</date>:<lb/>
+    and died in <placeName>Carolina</placeName><lb/>
+    <abbr>Sept<sup>r</sup></abbr><expan>September</expan> 26<sup>th</sup>, 1777<lb/>
+    This <hi>s</hi>tone,<lb/>
+    is placed by her only Child<lb/>
+    <persName>ANN BOOTH POLLOK</persName></p>
+
+      </body>
+  </text>
+</TEI>
