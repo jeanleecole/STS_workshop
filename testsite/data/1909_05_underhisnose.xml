@@ -1,19 +1,44 @@
-Under His Nose
-By Bruno Lessing
-Illustrated by William Oberhardt
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tombstone of Alice Hutton</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published at UMD-MIST, May 31, 2017</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+      
+<H1>Under His Nose</H1>
+<H3>by Bruno Lessing, illustrated by William Oberhardt</h3>
 
-Lezinsky: "What comes easy, goes easy! I make money: I spend it. I fall in love: I fall out again!” 
-Cohen:	"Ha! Ha! Ha!”
+<p>Lezinsky: "What comes easy, goes easy! I make money: I spend it. I fall in love: I fall out again!” <lb/>
+Cohen:	"Ha! Ha! Ha!”</p>
 
--The Greenhorn
+<p>&mdash;<em>The Greenhorn</em></p>
 
 
-You probably never heard of "The Greenhorn." It is a play-comedy in five or six acts (there may be seven or eight), written by my friend Gimplovitz. The quotation selected above conveys a fairly adequate idea of the humor that ripples through it. Whenever one of Gimplovitz's characters says anything that Gimplovitz thinks is humorous another character immediately laughs—"Ha ! Ha! Ha!" "The Greenhorn" has never been produced upon any stage, nor has it ever been published in any form. In fact, I am quite sure that this is the first and only mention it has ever received in public. And even in private but few eyes have ever deciphered the· Yiddish words, and few ears have ever heard Gimplovitz, with tears of laughter running down his plump cheeks, read the lines aloud. Miska, his daughter; Emil, the head waiter; Ratkowsky, who owned the little theater in Delancey Street; and I—these probably are all who ever read "The Greenhorn" or heard it read. Oh, yes, there was Sammy Levy, to be sure. He almost knew it by heart.
-	Nor was "The Greenhorn" the only comedy that Gimplovitz had written. There were about thirty-five others, all in Yiddish, all dealing with Ghetto life, and all in their original manuscript. I remember distinctly "The Pedler of Hester Street," "The Rabbi
+<p>You probably never heard of "The Greenhorn." It is a play-comedy in five or six acts (there may be seven or eight), written by my friend Gimplovitz. The quotation selected above conveys a fairly adequate idea of the humor that ripples through it. Whenever one of Gimplovitz's characters says anything that Gimplovitz thinks is humorous another character immediately laughs—"Ha ! Ha! Ha!" "The Greenhorn" has never been produced upon any stage, nor has it ever been published in any form. In fact, I am quite sure that this is the first and only mention it has ever received in public. And even in private but few eyes have ever deciphered the· Yiddish words, and few ears have ever heard Gimplovitz, with tears of laughter running down his plump cheeks, read the lines aloud. Miska, his daughter; Emil, the head waiter; Ratkowsky, who owned the little theater in Delancey Street; and I—these probably are all who ever read "The Greenhorn" or heard it read. Oh, yes, there was Sammy Levy, to be sure. He almost knew it by heart.</p>
+
+<p>Nor was "The Greenhorn" the only comedy that Gimplovitz had written. There were about thirty-five others, all in Yiddish, all dealing with Ghetto life, and all in their original manuscript. I remember distinctly "The Pedler of Hester Street," "The Rabbi</p>
+
+<p align="center">
 
 [660] 
+</p>
 
-from Odessa," "The Synagogue Scapegoat," and "His Third Wife." The names of the others have slipped from my memory, but I know that they were all comedies, varying from five to eight acts, profusely interspersed with outbursts of laughter from the characters and nearly every one of them endorsed with the signature of Ratkowsky under the statement that he regretted that he could not accept it. I asked Gimplovitz why he never wrote less than five acts. He smiled beamingly.
+<p align="left">
+from Odessa," "The Synagogue Scapegoat," and "His Third Wife." The names of the others have slipped from my memory, but I know that they were all comedies, varying from five to eight acts, profusely interspersed with outbursts of laughter from the characters and nearly every one of them endorsed with the signature of Ratkowsky under the statement that he regretted that he could not accept it. I asked Gimplovitz why he never wrote less than five acts. He smiled beamingly.</p>
+
 	"If the idea is funny," he replied, "you cannot have too much of it. The funnier it is the longer I make it. I want the audience to get their money's worth and to enjoy the play as much as I enjoyed writing it."
 	"The audience" was always uppermost in Gimplovitz's mind. He would not write a line, study a gesture, or give minute instructions for the actions of his characters without calculating carefully the effect upon the audience. Surely there never was a man who deserved an audience more than Gimplovitz did.
 	In the old days he had been a comedian in a Yiddish theater in Warsaw. His face, round, plastic, and good natured, was the typical comedian's face, and there was something about him that suggested the stage even to the most casual observer. When he came to this country there were no Yiddish theaters in the Ghetto, and Gimplovitz went to work in a coffee-house. He saved money, started a place for himself, and prospered, and throughout the East Side to-day the Café Gimplovitz is as well known as the biggest synagogue. Gimplovitz began to take things easy. Emil, the head waiter, looked after the business of the cafe; Miska, his 'daughter, handled the money; and Gimplovitz wrote comedies. Every time I went there he unfolded to me the plot of a new comedy that he was writing, and he always laughed when he told it. There never was a man so proud of his sense of humor as was Gimplovitz.
